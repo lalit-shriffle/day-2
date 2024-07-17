@@ -13,3 +13,5 @@ function Animal (name){
 const obj1 = new Animal();
 console.log(typeof obj1);
 console.log("isInstance : ",obj1 instanceof Animal);
+
+console.log( void 10);
